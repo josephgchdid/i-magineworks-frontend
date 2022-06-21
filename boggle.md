@@ -64,3 +64,5 @@ the game page where the timer is initialized to their chosen time
 1 - Implement the project in Typescript instead of Javascript 
 
 2 - Stunning and well designed UI
+
+3 - Optimal and efficient solution is used for the logic
