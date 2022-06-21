@@ -25,7 +25,7 @@ following criteria before a timer runs out:
    <li> Words must be at least three letters in length.  </li>
    <li> Each letter must be a horizontal, vertical, or diagonal neighbor of the one before it. </li>
    <li>
-      No individual letter cube may be used more than once in a word.
+      No individual letter square may be used more than once in a word.
    </li>
    <li>No capitalized words or hyphenated words are allowed.</li>
 </ul>
